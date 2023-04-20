@@ -1,1 +1,1 @@
-# -mernstack-render-deploy
+# mernstack-render-deploy
